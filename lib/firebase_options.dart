@@ -18,30 +18,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCh1EiLz6ze0pdGvuDoUa511K-cqR76jdg',
-    appId: '1:1093007023409:web:62fb6deaa1ac674ec3e410',
-    messagingSenderId: '1093007023409',
-    projectId: 'fir-auth-be3a9',
-    authDomain: 'fir-auth-be3a9.firebaseapp.com',
-    storageBucket: 'fir-auth-be3a9.firebasestorage.app',
-    measurementId: 'G-GZYGKKMDVT',
+    apiKey: 'AIzaSyCAHBZQlk9Z8Vg-WW5qgXpD9sLpIB2KzrY',
+    appId: '1:279391697102:web:9f186e544d15b94c21f89f',
+    messagingSenderId: '279391697102',
+    projectId: 'fir-auth-36d94',
+    authDomain: 'fir-auth-36d94.firebaseapp.com',
+    storageBucket: 'fir-auth-36d94.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCh1EiLz6ze0pdGvuDoUa511K-cqR76jdg',
-    appId: '1:1093007023409:android:62fb6deaa1ac674ec3e410',
-    messagingSenderId: '1093007023409',
-    projectId: 'fir-auth-be3a9',
-    storageBucket: 'fir-auth-be3a9.firebasestorage.app',
+    apiKey: 'AIzaSyCAHBZQlk9Z8Vg-WW5qgXpD9sLpIB2KzrY',
+    appId: '1:279391697102:web:9f186e544d15b94c21f89f',
+    messagingSenderId: '279391697102',
+    projectId: 'fir-auth-36d94',
+    authDomain: 'fir-auth-36d94.firebaseapp.com',
+    storageBucket: 'fir-auth-36d94.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCh1EiLz6ze0pdGvuDoUa511K-cqR76jdg',
-    appId: '1:1093007023409:web:62fb6deaa1ac674ec3e410',
-    messagingSenderId: '1093007023409',
-    projectId: 'fir-auth-be3a9',
-    authDomain: 'fir-auth-be3a9.firebaseapp.com',
-    storageBucket: 'fir-auth-be3a9.firebasestorage.app',
-    measurementId: 'G-GZYGKKMDVT',
+    apiKey: 'AIzaSyCAHBZQlk9Z8Vg-WW5qgXpD9sLpIB2KzrY',
+    appId: '1:279391697102:web:9f186e544d15b94c21f89f',
+    messagingSenderId: '279391697102',
+    projectId: 'fir-auth-36d94',
+    authDomain: 'fir-auth-36d94.firebaseapp.com',
+    storageBucket: 'fir-auth-36d94.firebasestorage.app',
   );
 }
